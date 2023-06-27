@@ -1,2 +1,2 @@
-# ibm-projects
-course work for ibm cousera data science certification
+# spacex-projects
+project on SpaceX dataset
