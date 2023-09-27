@@ -1,5 +1,4 @@
-# spacex-project
-Winning the space race with Data Science
+# Winning the space race with Data Science
 
 Project Overview:
 
