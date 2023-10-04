@@ -21,7 +21,7 @@ Technical Overview:
 1. Data Collection
 2. Data wrangling
 3. Exploratory Data Analysis
-4. Interactive visual analytics
+4. Interactive visual analysis
 5. Predictive analysis
 
 Results:
