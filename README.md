@@ -27,7 +27,9 @@ The data for this project was collected from two sources: Space X API GET reques
 # Results:
 
 The decision tree has the highest accuracy with an accuracy of 0.94.
-![image](https://github.com/VivianEzeagu/Winning-the-space-race-with-data-science/assets/115571925/417a937f-2f45-4eef-9e8f-1c0f36aea5e3)
+![image](https://github.com/VivianEzeagu/Winning-the-space-race-with-data-science/assets/115571925/ecfb6864-57ef-46ac-ab83-7a77f420144d)
+
+
 A higher flight number,  booster v1.1 and launch site KSC LC -39A are great ingredients for the successful launch of the first stage of Falcon9. The orbit and payload mass have varied effects on the success of launch depending on some other factors. More information can found in Report.pdf.
 
 
