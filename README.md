@@ -26,7 +26,7 @@ The data for this project was collected from two sources: Space X API GET reques
 
 # Results:
 
-The decision tree has the highest accuracy with an accuracy of 0.94.
+The models all had same accuracy of 0.83.
 ![image](https://github.com/VivianEzeagu/Winning-the-space-race-with-data-science/assets/115571925/ecfb6864-57ef-46ac-ab83-7a77f420144d)
 
 
