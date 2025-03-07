@@ -1,4 +1,4 @@
-# Winning the space race with Data Science
+# Predictive space data analysis with Machine Learning
 
 Table of Contents:
 1. Project Overview
